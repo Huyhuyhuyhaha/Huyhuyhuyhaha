@@ -33,10 +33,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thinhnguyen672007-alt&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=thinhnguyen672007-alt&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Huyhuyhuyhaha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Huyhuyhuyhaha&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="165" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thinhnguyen672007-alt&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huyhuyhuyhaha&theme=radical" alt="GitHub Streak" />
 </p>
