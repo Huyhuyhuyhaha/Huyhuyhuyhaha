@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Nguyen Thinh
+# Hi 👋, I'm Tuan Huy
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
